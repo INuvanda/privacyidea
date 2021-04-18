@@ -26,7 +26,7 @@ huey==2.2.0
 idna==2.9
 ipaddress==1.0.23; python_version < '3.0'
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 ldap3==2.6.1
 lxml==4.5.0
 Mako==1.1.2
