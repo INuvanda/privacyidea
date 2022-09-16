@@ -29,7 +29,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 ldap3==2.6.1
 lxml==4.5.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 netaddr==0.7.19
 oauth2client==4.1.3
